@@ -9,10 +9,10 @@ Before you start the assignment you should set up your Python env. and get comfo
 ## Jupyter Notebooks
 
 1. To run the notebook, run the following command -
-```
-jupyter notebook
-```
-at the Terminal(Mac/Linux). For Windows type the same command in the Anaconda Prompt( Anaconda command prompt is just like command prompt,but it makes sure that you are able to use anaconda and conda commands from the prompt, without having to change directories or your path). Type Anaconda Prompt in the search bar or just directly search for Jupyter Notebooks on your system.
+	```
+	jupyter notebook
+	```
+	at the Terminal(Mac/Linux). For Windows type the same command in the Anaconda Prompt( Anaconda command prompt is just like command prompt,but it makes sure that you are able to use anaconda and conda commands from the prompt, without having to change directories or your path). Type Anaconda Prompt in the search bar or just directly search for Jupyter Notebooks on your system.
 
 2. You should see the notebook open in your browser. Creating a new Jupyter Notebook is easy, just use the "New" dropdown menu and click on "Python 3". Try to experiment and play around with things by yourselves.
 
@@ -34,11 +34,13 @@ at the Terminal(Mac/Linux). For Windows type the same command in the Anaconda Pr
 - ```I + I``` interrupt kernel
 - ```Y``` change cell to code mode
 - ```M```  change cell to markdown mode (for good documentation)
+
 ### Edit Mode
 - ``` cmd ``` + ```click``` for multi-curso editing
 - ```tab``` code completion or indent
 - ``` shift ``` + ```tab``` show documentation
 - ``` ctrl ``` + ```shift``` + ```-``` split cell
+
 ### Command Palette
 Press ```cmd ``` + ```shift``` + ```P``` for quick access to all commands in Jupyter notebooks and press ```H``` (in command mode) to viewa all keyboard shortcuts.
 
